@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker",
+  "description": "A Extension to get the color code by dragging on it.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons":{
+    "94" :"images/icon_94.png"
+  },
+  "permissions":[
+    "activeTab",
+    "scripting"
+  ]
+}
